@@ -10,5 +10,9 @@ class program
         linkedListStack.Push(30);
         linkedListStack.Push(56);
         linkedListStack.Display();
+        linkedListStack.peek();
+        linkedListStack.pop();
+        linkedListStack.isEmpty();
+        linkedListStack.Display();
     }
 }
